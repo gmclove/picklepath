@@ -1,2 +1,2 @@
 # picklepath
- Pandas DataFrame automated checkpointing. Saves pickled DataFrames to assist in data recovery when conducting computationally intensive data processing. 
+ Python objects automated checkpointing. Saves pickled instances of python objects to assist in data recovery when conducting computationally intensive data processing. 
